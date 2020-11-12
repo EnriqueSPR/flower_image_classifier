@@ -2,6 +2,8 @@
 
 **Description**: In this image classification project, I trained a CNN model capable of classifying 5 types of flowers with a 90% accuracy by using **transfer learning** and **data augmentation**.
 
+<img src="figures/flower_front.png" width="500"/> 
+
 ## Code and Resources Used
 
 **Python Version**: 3.7
