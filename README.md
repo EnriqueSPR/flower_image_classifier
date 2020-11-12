@@ -1,6 +1,6 @@
 # Flower classification using a Convolutional Neural Network (CNN)
 
-* **Description**: In this image classification project, I trained a CNN model capable of classifying 5 types of flowers with a 90% accuracy by using **transfer learning** and **data augmentation**.
+**Description**: In this image classification project, I trained a CNN model capable of classifying 5 types of flowers with a 90% accuracy by using **transfer learning** and **data augmentation**.
 
 ## Code and Resources Used
 
