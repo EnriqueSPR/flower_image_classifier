@@ -38,7 +38,7 @@
  
  This model yielded satisfactory results, but studying its performance through model evaluation is important for further improvement.
  The confusion matrix and the pie chart shown below, show differences of performance among flower types.
- The pie chart indicates that for increasing model performance we may want to increase the number of pictures for those flower types with largest missclassification (i.e. tulips).
+ The pie chart indicates that for increasing model performance, we may want to increase the number of pictures for those flower types with largest missclassification (i.e. tulips).
  
   <img src="figures/corr_mat_NN_flowers.png" width="400"/>   <img src="figures/pie_chart_flowers.png" width="400"/> 
  
