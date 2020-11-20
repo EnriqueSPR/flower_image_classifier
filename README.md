@@ -4,7 +4,7 @@
 
 **[See full code here](https://nbviewer.jupyter.org/github/EnriqueSPR/flower_image_classifier/blob/main/my_flower_classifier.ipynb)**.
 
-<img src="figures/flower_front.png" width="500"/> 
+<img src="figures/flower_front.png" width="600"/> 
 
 ## Code and Resources Used
 
@@ -32,13 +32,13 @@
      * First, train the model with all Xception model layers frozen.
      * Second, unfreeze the layers to achieve higher accuracy.
      
- <img src="figures/summary_flower_classifier_workflow.png" width="800"/> 
+ <img src="figures/summary_flower_classifier_workflow.png" width="850"/> 
  
  ## 4. Model Evaluation.
  
  This model yielded satisfactory results, but studying its performance through model evaluation is important for further improvement.
  The confusion matrix and the pie chart shown below, show differences of performance among flower types.
- The pie chart indicates that for increasing model performance, we may want to increase the number of pictures for those flower types with largest missclassification (i.e. tulips).
+ The pie chart indicates that for increasing model performance, we may want to increase the number of pictures for those flower types with largest missclassification (i.e. roses).
  
   <img src="figures/corr_mat_NN_flowers.png" width="400"/>   <img src="figures/pie_chart_flowers.png" width="400"/> 
  
