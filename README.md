@@ -46,6 +46,6 @@
  
  Below are shown some of the examples of missclassified flower pictures:
  
-   <img src="figures/corr_mat_NN_flowers.png" width="400"/>   <img src="figures/missclassified_flowers.png" width="800"/> 
+ <img src="figures/missclassified_flowers.png" width="800"/> 
  
  
