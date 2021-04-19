@@ -48,4 +48,10 @@
  
  <img src="figures/missclassified_flowers.png" width="800"/> 
  
+ ## 5. Model Deployment:
+ 
+ An app was built and deployed using the [Streamlit](https://streamlit.io/) package.
+
+See below couple of screenshots of the app:
+
  
