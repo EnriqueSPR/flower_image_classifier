@@ -41,5 +41,11 @@
  The pie chart indicates that for increasing model performance, we may want to increase the number of pictures for those flower types with largest missclassification (i.e. roses).
  
   <img src="figures/corr_mat_NN_flowers.png" width="400"/>   <img src="figures/pie_chart_flowers.png" width="400"/> 
+  
+  
+ 
+ Below are shown some of the examples of missclassified flower pictures:
+ 
+ <img src="figures/missclassified_flowers.png" width="800"/> 
  
  
